@@ -533,3 +533,12 @@ Additional optional FastAPI dependencies:
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [fastapi/fastapi](https://github.com/fastapi/fastapi), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/fastapi/fastapi
